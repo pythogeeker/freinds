@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bn_mudit"
+        android:title="Mudit"
+        android:icon="@drawable/mudit"/>
+
+    <item
+        android:id="@+id/bn_ravi"
+        android:title="Ravi"
+        android:icon="@drawable/ravinder"/>
+
+    <item
+        android:id="@+id/bn_hardeep"
+        android:title="Hardeep"
+        android:icon="@drawable/hardeep"/>
+
+    <item
+        android:id="@+id/bn_chain"
+        android:title="Chain"
+        android:icon="@drawable/chain"/>
+
+    <item
+        android:id="@+id/bn_asvini"
+        android:title="Asvini"
+        android:icon="@drawable/ashvini"/>
+</menu>
